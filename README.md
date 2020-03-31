@@ -1,1 +1,3 @@
-# note and vote
+# Lean Coffee
+
+http://agilecoffee.com/leancoffee/

@@ -69,7 +69,7 @@
   },
   "license": "Apache-2.0",
   "main": "dist/server/index.js",
-  "name": "note-and-vote",
+  "name": "lean-coffee",
   "repository": "",
   "scripts": {
     "lint": "eslint --ext .js .",
