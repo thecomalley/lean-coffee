@@ -46,7 +46,7 @@ class App extends Component {
         <section className="home-container">
           <div className="upper-box">
             <div className="logo"></div>
-            <div className="title">Note & Vote</div>
+            <div className="title">Lean Coffee</div>
             <div className="description-list">
               <Link
                 to="/how"
